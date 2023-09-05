@@ -22,13 +22,12 @@ As categorias de requisitos não-funcionais para o produto de software "FocusFlo
    
    a. O sistema deve ser projetado de forma a facilitar futuras atualizações e manutenção, garantindo que todas as solicitações de suporte sejam respondidas dentro de 24 horas.
 
-A importância relativa de cada categoria:
+# Tabela relativa de cada categoria:
 
 | Categoria | Usabilidade | Desempenho | Confiabilidade | Suportabilidade |
 | --- | --- | --- | --- | --- |
-| Usabilidade | - | > | > | > |
-| Desempenho | < | - | < | > |
+| Usabilidade | - | < | > | > |
+| Desempenho | > | - | < | > |
 | Confiabilidade | < | > | - | > |
-| Suportabilidade | < | < | < | - |
+| Suportabilidade | < | > | < | - |
 
-> Nesta matriz, o sinal ">" indica que a categoria da linha é mais importante que a categoria da coluna, e o sinal "<" indica que a categoria da linha é menos importante que a categoria da coluna. Por exemplo, a Usabilidade é considerada mais importante que o Desempenho, Confiabilidade e Suportabilidade, enquanto o Desempenho é considerado mais importante que a Suportabilidade, mas menos importante que a Usabilidade e Confiabilidade, e assim por diante.

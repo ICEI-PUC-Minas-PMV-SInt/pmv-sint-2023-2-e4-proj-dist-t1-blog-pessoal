@@ -1,17 +1,13 @@
 # Expectativas
 
-> Neste momento, concentre-se em descrever as expectativas para o produto, sem entrar em detalhes
-> sobre a solução. Enumere as possibilidades que auxiliam a resolver os problemas e dificuldades dos usuários no
-> no cenário correntes, respondendo às perguntas: quais são as expectativas em relação ao produto? Aonde você
-> almeja chegar com ele?
-
-1. Espera-se uma interface intuitiva e fácil de usar para o gerenciamento eficiente de tarefas e projetos.
-2. Os usuários desejam a integração de uma técnica de pomodoro que melhore o foco e a produtividade nas atividades.
-3. A possibilidade de priorizar tarefas usando o método de Eisenhower, auxiliando na gestão do tempo e esforço.
-4. Espera-se uma funcionalidade de cronometragem precisa para medir o tempo dedicado a cada tarefa.
-5. Integração com o Google Calendar para visualização e sincronização das atividades e prazos.
-6. Os usuários desejam uma visão clara do custo de cada projeto com base nas horas cronometradas.
-7. Espera-se uma solução completa que atenda às demandas específicas dos freelancers, otimizando seu fluxo de trabalho e produtividade.
+1. Facilidade de Uso: Os usuários esperam uma plataforma intuitiva e de fácil utilização, permitindo que criem, editem e publiquem conteúdo sem a necessidade de habilidades técnicas avançadas.
+2. Customização Flexível: Os usuários desejam a capacidade de personalizar o design e o nome do blog para refletir sua identidade, estilo e nicho.
+3. Acessibilidade: Espera-se que o produto ofereça uma experiência acessível para todos os públicos, independentemente de suas habilidades ou necessidades especiais.
+4. Otimização para Mecanismos de Busca: Espera-se que o produto ajude a melhorar a visibilidade do blog nos resultados de pesquisa, aumentando o tráfego orgânico.
+5. Gerenciamento Simplificado: A expectativa é que o produto facilite o gerenciamento de categorias, tags, mídia e outros elementos do blog.
+6. Compartilhamento Fácil: Os usuários desejam opções simplificadas para compartilhar o conteúdo do blog em várias plataformas e canais.
+7. Crescimento da Audiência: A expectativa é que o produto ajude os blogueiros a expandirem seu público e alcançarem mais leitores.
+8. Colaboração: Os usuários podem esperar funcionalidades que facilitem a colaboração entre autores e membros da equipe.
 
 [Retorna](../README.md)
 

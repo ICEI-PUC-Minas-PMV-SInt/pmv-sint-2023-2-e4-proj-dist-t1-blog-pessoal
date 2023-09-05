@@ -1,17 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11729018&assignment_repo_type=AssignmentRepo)
-> Identifique o produto que será construído. Para isso, nomeie-o da seguinte forma: imagine o produto em uma caixa, qual nome estaria 
-> escrito nela?
-# ToDoZ
+
+# Blog Pessoal
 
 # Visão do Produto
-> Ter uma visão clara do produto é essencial para entender como as primeiras peças do quebra-cabeça do seu negócio se encaixarão. Essa
-> visão deve capturar a essência do valor que seu negócio oferece e transmitir uma mensagem clara e cativante para seus clientes. 
-> Utilize o seguinte modelo para criar a visão do seu produto:
 
-> Para [o nome do cliente final], cujo [o problema que precisa ser resolvido]. O [o nome do produto] é [a categoria do produto] que [o benefício-chave, razão para adquiri-lo]. Diferentemente de [alternativa da concorrência], o nosso produto [a diferença-chave].
-
-Para freelancers que trabalham em diversos projetos, cujo desafio é gerenciar tarefas, priorizar atividades, manter o foco e medir o custo de cada projeto com precisão. O ToDoZ é um software de gerenciamento de tarefas e tempo baseado na técnica de pomodoro e método de Eisenhower, que melhora a concentração, aumenta a produtividade e permite um melhor planejamento financeiro. Diferentemente de outras opções no mercado, nosso produto oferece uma solução completa e eficiente para o dia a dia do freelancer.
-
+No nosso site de criação de blog pessoal, você encontrará todas as ferramentas e recursos necessários para transformar seus pensamentos em posts cativantes. Seja você um entusiasta de viagens, um gourmet culinário, um amante da moda, ou um aficionado por tecnologia, nele você vai conseguir criar posts de forma prática e eficaz, podendo assim aumentar suas vendas, criar comunidades ou então expressar suas opiniões sobre algum assunto. 
 
 ## Etapa 1: Requisitos do produto
 

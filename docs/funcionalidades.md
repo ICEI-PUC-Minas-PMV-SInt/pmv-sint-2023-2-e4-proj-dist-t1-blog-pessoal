@@ -91,4 +91,16 @@ Benefícios para a persona: Inspirar seus seguidores com ideias visuais de looks
 Mostrar as tendências em ação, tornando-as mais tangíveis para os leitores.
 Aumentar o interesse dos seguidores em experimentar novos estilos.
 
+# Tabela de Funcionalidades
+
+| Funcionalidades | Mario | Gabriel | Felipe
+|-----------------|--------------|-----------------|-----------------|
+| Galeria de Fotos e Decrições Detalhadas | Sim | - | - |
+| Atualizações e Novidades | Sim | - | - |
+| Integração com Loja Online | Sim | - | - |
+| Publicação de Análises de Jogos e Experiências de Gameplay | - | Sim | - |
+| Notícias e Novidades da Indústria de Games |  - | Sim | - |
+| Publicação Diária de Tendências de Estilo | - | - | Sim |
+| Galeria Visual de Looks e Combinações | - | - | Sim |
+
 [Retorna](../README.md)

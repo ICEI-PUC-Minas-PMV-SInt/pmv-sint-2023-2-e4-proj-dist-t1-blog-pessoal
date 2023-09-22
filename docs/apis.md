@@ -1,16 +1,11 @@
 # Especificação de APIs
 
-> A especificação de APIs descreve os principais endpoints da API RESTful do produto
-> de software, os métodos HTTP associados a cada endpoint, suas descrições, os formatos
-> de respostas, os parâmetros de URL esperados e o mecanismo de autenticação e autorização 
-> utilizado.
-
-| Endpoint                             | Método | Descrição                                      | Parâmetros                        | Formato da Resposta | Autenticação e Autorização |
+| Endpoint   | Método | Descrição                                       | Parâmetros                                   | Formato da Resposta | Autenticação e Autorização |
 |--------------------------------------|--------|------------------------------------------------|-----------------------------------|---------------------|----------------------------|
-| /api/users/{user_id}/tasks/          | GET    | Obter todas as tarefas cadastradas             | user_id (string)                  | JSON                | JWT Token                  |
-| /api/users/{user_id}/tasks/{task_id} | POST   | Criar uma nova tarefa                          | user_id (string) task_id (string) | JSON                | JWT Token                  |
-| /api/users/{user_id}/tasks/{task_id} | GET    | Obter detalhes de uma tarefa específica        | user_id (string) task_id (string) | JSON                | JWT Token                  |
-| /api/users/{user_id}/tasks/{task_id} | PUT    | Atualizar os detalhes de uma tarefa específica | user_id (string) task_id (string) | JSON                | JWT Token                  |
-| /api/users/{user_id}/tasks/{task_id} | DELETE | Excluir uma tarefa específica                  | user_id (string) task_id (string) | JSON                | JWT Token                  |
+| /api/posts/{post_id} | GET    | Recupera a lista de todas as postagens no blog. | Nenhum.                                      | JSON                | Não é necessária autenticação para acessar postagens públicas. |
+| /api/posts | GET     | Recupera uma postagem específica pelo ID.       | {post_id} - ID da postagem a ser recuperada. | JSON                | Não é necessária autenticação para acessar postagens públicas. |
+| /api/posts/{post_id} | POST   | Cria uma nova postagem no blog.                 | Nenhum. | JSON                               | JSON                | Requer autenticação de um usuário autorizado. |
+| /api/posts/{post_id} | PUT    | Atualiza uma postagem existente pelo ID.        | {post_id} - ID da postagem a ser atualizada. | JSON                | Requer autenticação de um usuário autorizado. |
+| /api/comments        | DELETE | Exclui uma postagem existente pelo ID.          | {post_id} - ID da postagem a ser excluída.   | JSON                | Requer autenticação de um usuário autorizado. |
 
 [Retorna](../README.md)

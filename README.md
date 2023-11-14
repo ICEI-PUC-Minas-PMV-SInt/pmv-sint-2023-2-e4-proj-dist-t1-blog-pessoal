@@ -18,7 +18,7 @@ No nosso site de criação de blog pessoal, você encontrará todas as ferrament
 
 ## MVP 1 
 
-### Etapa 2: Arquitetura e design do produto
+## Etapa 2: Arquitetura e design do produto
 
 * [Diagrama de Contexto](docs/diagrama-de-contexto.md)
 * [Diagrama de Contêiner](docs/diagrama-de-conteiner.md)
@@ -26,14 +26,14 @@ No nosso site de criação de blog pessoal, você encontrará todas as ferrament
 * [Projeto do banco de dados](docs/projeto-do-banco-de-dados.md)
 * [Especificação das APIs](docs/apis.md)
 
-### Etapa 3: Implementação e testes do produto
+## Etapa 3: Implementação e testes do produto
 
 * [Roteiro de implementação](docs/roteiro-de-implementacao.md)
 
-### Etapa 4: Deploy em nuvem do produto 
+## Etapa 4: Deploy em nuvem do produto 
 
 * [Roteiro de testes](docs/roteiro-de-teste-e-deploy.md)
 
-### Etapa 5: Entrega e apresentação do produto
+## Etapa 5: Entrega e apresentação do produto
 
 * [Roteiro para entrega e apresentação](docs/roteiro-de-entrega-e-apresentacao.md)
